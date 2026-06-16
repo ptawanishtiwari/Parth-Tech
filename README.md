@@ -5,6 +5,8 @@ hsbhbhbvhbva
 ![Parth Tech Banner](https://img.shields.io/badge/ParthTech-AI%20Powered-blue)
 
 Welcome to the official repository for the **Parth Tech Pvt. Ltd. Website**.
+<br>
+<br>
 This project represents the digital presence of **Parth Tech Pvt. Ltd.**, a startup focused on **AI-powered solutions, software development, and modern web technologies**.
 
 The website is built as a **full-stack AI-powered platform using Java and Python**, designed to showcase our services, technology capabilities, and innovative products.
